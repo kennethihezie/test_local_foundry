@@ -43,6 +43,8 @@ $ forge snapshot
 
 ```shell
 $ anvil
+
+$ anvil --hardfork cancun
 ```
 
 ### Deploy
